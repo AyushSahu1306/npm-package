@@ -1,10 +1,14 @@
 {
-  "name": "advanced_dsa.js",
+  "name": "@ayushsahu_123/advanced_dsa.js",
   "version": "1.0.0",
   "description": "An npm package that can help you to use all of the famous ds and algo in your coding implementations",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/AyushSahu1306/npm-package"
   },
   "author": "Ayush",
   "license": "ISC"
